@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.144,D:\Incoming\[.WORK]\D11_285.QR-Code-Generator v.0.28\Sample\Unit3.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.917,D:\Incoming\[.WORK]\quricol-master\Sample\Unit1.dfm=D:\Incoming\[.WORK]\quricol-master\Sample\frm_Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.170,=D:\Incoming\[.WORK]\D11_285.QR-Code-Generator v.0\Sample\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.917,D:\Incoming\[.WORK]\quricol-master\Sample\Unit1.pas=D:\Incoming\[.WORK]\quricol-master\Sample\frm_Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.653,=D:\Incoming\[.WORK]\D11_285.QR-Code-Generator v.0\Sample\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
