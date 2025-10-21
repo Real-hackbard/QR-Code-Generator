@@ -18,6 +18,7 @@ The QR Codes can store up to 4,296 alphanumeric characters of arbitrary text. Th
 
 Export Formats : Bitmap; Jpg; Png
 
+</br>
 
 | Name | Description |
 |---|---|
@@ -26,7 +27,7 @@ Export Formats : Bitmap; Jpg; Png
 | GetBitmapImage |  Created Windows Bitmap image with the text encoded as QR code |
 | GetPngStream | Writes PNG image to the stream. Can be useful for web development |
 
-  <br />
+</br>
 
 
 | Parameters | Description |
@@ -37,11 +38,11 @@ Export Formats : Bitmap; Jpg; Png
 | PixelSize: integer = 3 | The size of the one image point. |  
 | Level: TErrorCorretion = QualityLow | The error correction level |
 
-  <br />
+</br>
 
 ![QR-Code-Generator](https://github.com/user-attachments/assets/4402877f-1b66-49f7-bc67-2aada4a671ff)
 
-  <br />
+</br>
 
 ### Code Example:
 
@@ -73,5 +74,7 @@ begin
       Writeln(E.ClassName, ': ', E.Message);
   end;
 ```
+
+</br>
 
 Copyright (c) Serhiy Perevoznyk. All rights reserved. THIS CODE AND INFORMATION IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. 
