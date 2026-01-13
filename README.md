@@ -12,9 +12,7 @@
 
 </br>
 
-The QR Codes are a  special kind of images that used to represent two-dimensional barcodes. They are also known as hardlinks or physical world hyperlinks.
-
-The QR Codes can store up to 4,296 alphanumeric characters of arbitrary text. The  QR codes can be read by an optical device with the appropriate software. Such devices range from dedicated QR code readers to mobile phones.
+A QR code, short for quick-response code, is a type of two-dimensional [matrix barcode](https://en.wikipedia.org/wiki/Barcode#Matrix_(2D)_codes) invented in 1994 by [Masahiro Hara](https://en.wikipedia.org/wiki/Masahiro_Hara) of the Japanese company [Denso Wave](https://en.wikipedia.org/wiki/Denso#DENSO_Wave) for labelling automobile parts. It features black squares on a white background with fiducial markers, readable by imaging devices like cameras, and processed using Reed–Solomon error correction until the image can be appropriately interpreted. The required data is then extracted from patterns that are present in both the horizontal and the vertical components of the QR image.
 
 Export Formats : Bitmap; Jpg; Png
 
