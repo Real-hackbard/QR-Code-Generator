@@ -77,4 +77,8 @@ begin
 
 </br>
 
-Copyright (c) Serhiy Perevoznyk. All rights reserved. THIS CODE AND INFORMATION IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. 
+![Delphi Multi](https://github.com/user-attachments/assets/2c68cf53-903c-47c8-833d-ffe61d0f08d1)
+
+</br>
+
+# No component
