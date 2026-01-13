@@ -26,7 +26,7 @@ A QR code, short for quick-response code, is a type of two-dimensional [matrix b
 
 </br>
 
-Whereas a barcode is a machine-readable optical image that contains information specific to the labeled item, the QR code contains the data for a locator, an identifier, and web tracking. To store data efficiently, QR codes use four standardized modes of encoding: [numeric](https://en.wikipedia.org/wiki/Number), alphanumeric, byte or [binary](https://en.wikipedia.org/wiki/Binary_number), and kanji. Compared to standard UPC barcodes, the QR labeling system was applied beyond the automobile industry because of faster reading of the optical image and greater data-storage capacity in applications such as product tracking, item identification, time tracking, document management, and general marketing.
+Whereas a barcode is a machine-readable optical image that contains information specific to the labeled item, the QR code contains the data for a locator, an identifier, and web tracking. To store data efficiently, QR codes use four standardized modes of encoding: [numeric](https://en.wikipedia.org/wiki/Number), alphanumeric, byte or [binary](https://en.wikipedia.org/wiki/Binary_number), and kanji. Compared to standard [UPC barcodes](https://en.wikipedia.org/wiki/Universal_Product_Code), the QR labeling system was applied beyond the automobile industry because of faster reading of the optical image and greater data-storage capacity in applications such as product tracking, item identification, time tracking, document management, and general marketing.
 
 </br>
 
