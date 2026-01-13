@@ -20,6 +20,7 @@ Export Formats : Bitmap; Jpg; Png
 
 </br>
 
+### Graphic:
 | Name | Description |
 |---|---|
 | GenerateBitmapFile  | Generates Windows Bitmap file with the text encoded as QR code |
@@ -29,7 +30,7 @@ Export Formats : Bitmap; Jpg; Png
 
 </br>
 
-
+### Variables:
 | Parameters | Description |
 |---|---|
 | const FileName: string | The name of the bitmap file |
