@@ -81,5 +81,5 @@ begin
 </br>
 
 # No component:
-![Delphi Multi](https://github.com/user-attachments/assets/2c68cf53-903c-47c8-833d-ffe61d0f08d1)
+![Delphi Multi](https://github.com/user-attachments/assets/2c68cf53-903c-47c8-833d-ffe61d0f08d1)  
 The second project contains no installable component and can be compiled with older versions.
