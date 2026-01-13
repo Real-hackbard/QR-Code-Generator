@@ -100,14 +100,14 @@ QR barcode Driver Download : https://www.dllme.com/dll/files/quricol32
 # How to Install this DLL:
 To install quricol32.dll, first copy the DLL into the application folder where the .exe is located. Use the Windows system folders if the error continues or you can’t find the application folder. If you are not sure which version (32-bit or 64-bit) to use, you can safely install both.
 
-64-bit Application Folder: → copy to:  
-```C:\Program Files\AppName\quricol32.dll```
-32-bit Application Folder: → copy to:  
-```C:\Program Files (x86)\AppName\quricol32.dll```
-64-bit Windows System Folder: → copy to:  
-```C:\Windows\System32\quricol32.dll```
-32-bit Windows System Folder: → copy to:  
-```C:\Windows\SysWOW64\quricol32.dll```
+* 64-bit Application Folder: → copy to:  
+```C:\Program Files\AppName\quricol32.dll```  
+* 32-bit Application Folder: → copy to:  
+```C:\Program Files (x86)\AppName\quricol32.dll```  
+* 64-bit Windows System Folder: → copy to:  
+```C:\Windows\System32\quricol32.dll```  
+* 32-bit Windows System Folder: → copy to:  
+```C:\Windows\SysWOW64\quricol32.dll```  
 
 
 
