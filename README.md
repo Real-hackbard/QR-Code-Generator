@@ -14,8 +14,6 @@
 
 A QR code, short for quick-response code, is a type of two-dimensional [matrix barcode](https://en.wikipedia.org/wiki/Barcode#Matrix_(2D)_codes) invented in 1994 by [Masahiro Hara](https://en.wikipedia.org/wiki/Masahiro_Hara) of the Japanese company [Denso Wave](https://en.wikipedia.org/wiki/Denso#DENSO_Wave) for labelling automobile parts. It features black squares on a white background with fiducial markers, readable by imaging devices like cameras, and processed using Reed–Solomon error correction until the image can be appropriately interpreted. The required data is then extracted from patterns that are present in both the horizontal and the vertical components of the QR image.
 
-Export Formats : Bitmap; Jpg; Png
-
 </br>
 
 ### Graphic:
@@ -40,6 +38,10 @@ Export Formats : Bitmap; Jpg; Png
 </br>
 
 ![QR-Code-Generator](https://github.com/user-attachments/assets/4402877f-1b66-49f7-bc67-2aada4a671ff)
+
+</br>
+
+Export Formats : Bitmap; Jpg; Png
 
 </br>
 
