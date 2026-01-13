@@ -46,7 +46,7 @@ Export Formats : Bitmap; Jpg; Png
 
 ### Code Example:
 
-```
+```pascal
 var
   bmp : TBitmap;
   MS : TMemoryStream;
