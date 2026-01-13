@@ -117,10 +117,10 @@ To install quricol32.dll, first copy the DLL into the application folder where t
 # How to Register this DLL
 Most DLL files do not need registration, but some DLLs are COM components and must be registered to work correctly.
 
-* 64-bit Register DLL: You can drag the DLL into PowerShell to auto-fill the full path.
+* 64-bit Register DLL: You can drag the DLL into PowerShell to auto-fill the full path.  
 ```regsvr32 "C:\path\to\quricol32.dll"```
 
-* 32-bit Register DLL:
+* 32-bit Register DLL:  
 ```C:\Windows\SysWOW64\regsvr32 "C:\path\to\quricol32.dll"```
 
 
