@@ -83,3 +83,4 @@ begin
 </br>
 
 # No component
+The second project contains no installable component and can be compiled with older versions.
