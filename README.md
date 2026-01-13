@@ -92,5 +92,5 @@ quricol32.dll is a Dynamic Link Library (DLL) developed by [Serhiy Perevoznyk](h
 
 DLL files (Dynamic Link Library) are used by Windows programs to share code and resources. It allows multiple applications to use the same functions, improving performance and reducing redundancy. Most errors involving qjpeg.dll occur because the DLL is missing, corrupted, or outdated. In many cases, reinstalling the related application, repairing windows or replacing the DLL resolves the issue.
 
-Blog : https://delphi32.blogspot.com/
+Blog : https://delphi32.blogspot.com  
 QR barcode Driver Download : https://www.dllme.com/dll/files/quricol32
