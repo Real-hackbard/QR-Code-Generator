@@ -87,3 +87,7 @@ begin
 # No component for older Versions:
 ![Delphi Multi](https://github.com/user-attachments/assets/2c68cf53-903c-47c8-833d-ffe61d0f08d1)  
 The second project contains no installable component and can be compiled with older versions.
+
+quricol32.dll is a Dynamic Link Library (DLL) developed by [Serhiy Perevoznyk](https://perevoznyk.wordpress.com/) for Quricol QR Barcode Library and is described as QR barcode library.
+
+DLL files (Dynamic Link Library) are used by Windows programs to share code and resources. It allows multiple applications to use the same functions, improving performance and reducing redundancy. Most errors involving qjpeg.dll occur because the DLL is missing, corrupted, or outdated. In many cases, reinstalling the related application, repairing windows or replacing the DLL resolves the issue.
