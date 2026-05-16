@@ -82,7 +82,7 @@ begin
 
 </br>
 
-# Scale function
+### Scale function
 ```pascal
 procedure Scale(const src, dest: TGraphic;
   DestWidth, DestHeight: integer; Smooth: Boolean = true);
