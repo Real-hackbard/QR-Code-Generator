@@ -45,7 +45,7 @@ Whereas a barcode is a machine-readable optical image that contains information 
 
 </br>
 
-Export Formats : Bitmap; Jpg; Png
+Export Formats : [Bitmap;](https://en.wikipedia.org/wiki/Bitmap) [Jpg;](https://en.wikipedia.org/wiki/JPEG) [Png;](https://en.wikipedia.org/wiki/PNG) [GIF;](https://en.wikipedia.org/wiki/GIF) [WMF;](https://en.wikipedia.org/wiki/Windows_Metafile) [EMF;](https://en.wikipedia.org/w/index.php?title=Windows_Metafile&oldformat=true#EMF+)
 
 </br>
 
