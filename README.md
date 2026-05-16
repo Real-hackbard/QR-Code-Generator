@@ -20,6 +20,10 @@ A QR code, short for quick-response code, is a type of two-dimensional [matrix b
 
 </br>
 
+Export Formats : [Bitmap;](https://en.wikipedia.org/wiki/Bitmap) [Jpg;](https://en.wikipedia.org/wiki/JPEG) [Png;](https://en.wikipedia.org/wiki/PNG) [GIF;](https://en.wikipedia.org/wiki/GIF) [WMF;](https://en.wikipedia.org/wiki/Windows_Metafile) [EMF;](https://en.wikipedia.org/w/index.php?title=Windows_Metafile&oldformat=true#EMF+)
+
+</br>
+
 ### Graphic:
 | Name | Description |
 |---|---|
@@ -42,10 +46,6 @@ Whereas a barcode is a machine-readable optical image that contains information 
 | Margin: integer = 4 | The margin from the border |
 | PixelSize: integer = 3 | The size of the one image point. |  
 | Level: TErrorCorretion = QualityLow | The error correction level |
-
-</br>
-
-Export Formats : [Bitmap;](https://en.wikipedia.org/wiki/Bitmap) [Jpg;](https://en.wikipedia.org/wiki/JPEG) [Png;](https://en.wikipedia.org/wiki/PNG) [GIF;](https://en.wikipedia.org/wiki/GIF) [WMF;](https://en.wikipedia.org/wiki/Windows_Metafile) [EMF;](https://en.wikipedia.org/w/index.php?title=Windows_Metafile&oldformat=true#EMF+)
 
 </br>
 
