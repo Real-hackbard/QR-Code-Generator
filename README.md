@@ -131,6 +131,28 @@ begin
   end;
 end;
 ```
+</br>
+
+### Colorize Pixel
+```pascal
+// colorize qr-code
+  if Form2.CheckBox4.Checked = true then
+  begin
+    BMP := TBitmap.Create;
+    // copy original pixel to bimtap
+    BMP := TQRCode.GetBitmapImage(Memo1.Text,SpinEdit1.Value, SpinEdit2.Value);
+    // Identify all black pixels and recolor them in RGB.
+    // for both height and width
+    for x := 0 to BMP.Height do
+    begin
+      for y := 0 to BMP.Width do
+      begin
+        if BMP.Canvas.Pixels[y,x] = clBlack then
+            BMP.Canvas.Pixels[y,x]:= Form2.Shape1.Brush.Color;
+      end;
+    end;
+  end;
+```
 
 </br>
 
