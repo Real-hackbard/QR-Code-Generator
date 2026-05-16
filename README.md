@@ -82,6 +82,58 @@ begin
 
 </br>
 
+# Scale function
+```pascal
+procedure Scale(const src, dest: TGraphic;
+  DestWidth, DestHeight: integer; Smooth: Boolean = true);
+var
+  temp, aCopy: TBitmap;
+  faktor: double;
+begin
+  Assert(Assigned(src) and Assigned(dest));
+  if (src.Width = 0) or (src.Height = 0) then
+    raise Exception.CreateFmt('Invalid source dimensions: %d x %d',[src.Width, src.Height]);
+  if src.Width > DestWidth then
+    begin
+      faktor := DestWidth / src.Width;
+      if (src.Height * faktor) > DestHeight then
+        faktor := DestHeight / src.Height;
+    end
+  else
+    begin
+      faktor := DestHeight / src.Height;
+      if (src.Width * faktor) > DestWidth then
+        faktor := DestWidth / src.Width;
+    end;
+  try
+    aCopy := TBitmap.Create;
+    try
+      aCopy.PixelFormat := pf24Bit;
+      aCopy.Assign(src);
+      temp := TBitmap.Create;
+      try
+        temp.Width := round(src.Width * faktor);
+        temp.Height := round(src.Height * faktor);
+        if Smooth then
+          SetStretchBltMode(temp.Canvas.Handle, HALFTONE);
+        StretchBlt(temp.Canvas.Handle, 0, 0, temp.Width, temp.Height,
+          aCopy.Canvas.Handle, 0, 0, aCopy.Width, aCopy.Height, SRCCOPY);
+        dest.Assign(temp);
+      finally
+        temp.Free;
+      end;
+    finally
+      aCopy.Free;
+    end;
+  except
+    on E: Exception do
+      MessageBox(0, PChar(E.Message), nil, MB_OK or MB_ICONERROR);
+  end;
+end;
+```
+
+</br>
+
 </br>
 
 # No component for older Versions:
