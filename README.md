@@ -26,7 +26,7 @@ Export Formats : [Bitmap;](https://en.wikipedia.org/wiki/Bitmap) [Jpg;](https://
 
 ### Graphic:
 | Name | Description |
-|---|---|
+| :--- | :--- |
 | GenerateBitmapFile  | Generates Windows Bitmap file with the text encoded as QR code |
 | GeneratePngFile  | Generates PNG file with the text encoded as QR code  |
 | GetBitmapImage |  Created Windows Bitmap image with the text encoded as QR code |
