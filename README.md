@@ -16,6 +16,10 @@ A QR code, short for quick-response code, is a type of two-dimensional [matrix b
 
 </br>
 
+![QR-Code-Generator](https://github.com/user-attachments/assets/4402877f-1b66-49f7-bc67-2aada4a671ff)
+
+</br>
+
 ### Graphic:
 | Name | Description |
 |---|---|
@@ -38,10 +42,6 @@ Whereas a barcode is a machine-readable optical image that contains information 
 | Margin: integer = 4 | The margin from the border |
 | PixelSize: integer = 3 | The size of the one image point. |  
 | Level: TErrorCorretion = QualityLow | The error correction level |
-
-</br>
-
-![QR-Code-Generator](https://github.com/user-attachments/assets/4402877f-1b66-49f7-bc67-2aada4a671ff)
 
 </br>
 
