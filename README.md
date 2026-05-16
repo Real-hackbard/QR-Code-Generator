@@ -40,7 +40,7 @@ Whereas a barcode is a machine-readable optical image that contains information 
 
 ### Variables:
 | Parameters | Description |
-|---|---|
+| :--- | :--- |
 | const FileName: string | The name of the bitmap file |
 | const Text: string | The text to encode |
 | Margin: integer = 4 | The margin from the border |
