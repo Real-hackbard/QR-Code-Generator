@@ -9,6 +9,7 @@ currently being supported with security updates.
 | ------- | ------------------ |
 | 1.0.x   | :white_check_mark: |
 | 1.0.x   | :white_check_mark: QR-Code Driver - Project without Component |
+| 1.1.x   | :white_check_mark: Resizibg Bitmap, Smooth Bitmap, Colorize QR-Code, Select Pixel Bits, Export Format : GIF, WMF, EMF |
 
 ## Reporting a Vulnerability
 
